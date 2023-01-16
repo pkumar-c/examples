@@ -1,4 +1,4 @@
 # examples
 Examples of Concourse workflows
 
-DEMO
+DEMO 2
